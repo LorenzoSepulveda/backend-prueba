@@ -6,6 +6,10 @@ package com.portfolio.ls.Dto;
 
 import javax.validation.constraints.NotBlank;
 
+/**
+ *
+ * @author lor_b
+ */
 
 public class dtoExperiencia {
     

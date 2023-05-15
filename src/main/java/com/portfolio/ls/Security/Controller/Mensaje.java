@@ -6,7 +6,7 @@ package com.portfolio.ls.Security.Controller;
 
 /**
  *
- * @author Natalin
+ * @author lor_b
  */
 public class Mensaje {
     private String mensaje;

@@ -8,7 +8,7 @@ import javax.validation.constraints.NotBlank;
 
 /**
  *
- * @author Natalin
+ * @author lor_b
  */
 public class LoginUsuario {
     

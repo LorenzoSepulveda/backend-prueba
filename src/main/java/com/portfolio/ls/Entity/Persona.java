@@ -9,6 +9,11 @@ import javax.validation.constraints.Size;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ *
+ * @author lor_b
+ */
+
 @Getter @Setter
 @Entity
 public class Persona {

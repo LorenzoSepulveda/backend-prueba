@@ -4,6 +4,11 @@
  */
 package com.portfolio.ls.Security.Service;
 
+/**
+ *
+ * @author lor_b
+ */
+
 import com.portfolio.ls.Security.Entity.Usuario;
 import com.portfolio.ls.Security.Repository.iUsuarioRepository;
 import java.util.Optional;

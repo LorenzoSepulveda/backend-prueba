@@ -13,7 +13,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 /**
  *
- * @author Natalin
+ * @author lor_b
  */
 public class UsuarioPrincipal implements UserDetails {
 

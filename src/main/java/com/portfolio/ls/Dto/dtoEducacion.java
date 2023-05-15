@@ -4,8 +4,10 @@ package com.portfolio.ls.Dto;
 import javax.validation.constraints.NotBlank;
 
 /**
- * @author Natalin Acuña
+ *
+ * @author lor_b
  */
+
 public class dtoEducacion {
     @NotBlank
     private String nombreE;

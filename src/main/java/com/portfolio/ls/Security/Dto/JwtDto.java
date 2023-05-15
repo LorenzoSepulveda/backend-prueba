@@ -9,7 +9,7 @@ import org.springframework.security.core.GrantedAuthority;
 
 /**
  *
- * @author Natalin
+ * @author lor_b
  */
 public class JwtDto {
     private String token;

@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  *
- * @author Natalin
+ * @author lor_b
  */
 public class NuevoUsuario {
     private String nombre;
