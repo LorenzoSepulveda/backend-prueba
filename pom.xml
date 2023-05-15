@@ -15,9 +15,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.portfolio</groupId>
-    <artifactId>nga</artifactId>
+    <artifactId>ls</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nga</name>
+    <name>ls</name>
     <description>Portfolio</description>
     <properties>
         <java.version>1.8</java.version>
