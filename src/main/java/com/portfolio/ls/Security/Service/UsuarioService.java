@@ -26,7 +26,6 @@ public class UsuarioService {
 
     public Optional<Usuario> getByNombreUsuario(String nombreUsuario) {
         return iusuarioRepository.findByNombreUsuario(nombreUsuario);
-
     }
 
     public boolean existsByNombreUsuario(String nombreUsuario) {
