@@ -57,8 +57,8 @@ public class PersonaController {
         return persona;
     }
 
-    @GetMapping("personas/traer/perfil/{personaID}")
-    public Persona findPersona(@PathVariable(value="someID") String id) {
+    @GetMapping("personas/traer/perfil/{id}")
+    public Persona findPersona(@PathVariable String id) {
         return ipersonaService.findPersona(Integer.valueOf(id));
     }
 
